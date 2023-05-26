@@ -9,3 +9,5 @@
 * Comando git remote 
 * Comando git diff
 * Comando git push 
+*    Comando pull
+*    
