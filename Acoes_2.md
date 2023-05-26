@@ -1,5 +1,6 @@
 # Curso Digital: GIT
 
+* Comando git init
 * Comando git add
 * Comando git status
 * Comando git log
