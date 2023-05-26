@@ -10,4 +10,5 @@
 * Comando git diff
 * Comando git push 
 *    Comando pull
-*    
+*    Comando fetch
+
